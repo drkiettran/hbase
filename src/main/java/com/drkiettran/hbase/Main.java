@@ -1,6 +1,6 @@
 package com.drkiettran.hbase;
 
-import com.drkiettran.hbase.repository.InfoFamily;
+import com.drkiettran.hbase.model.InfoFamily;
 import com.drkiettran.hbase.repository.UsersTable;
 
 public class Main {

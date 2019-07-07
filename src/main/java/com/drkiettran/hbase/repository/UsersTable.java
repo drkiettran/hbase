@@ -19,6 +19,8 @@ import org.apache.hadoop.hbase.util.Bytes;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
+import com.drkiettran.hbase.model.InfoFamily;
+
 public class UsersTable {
 	private static final Logger LOGGER = LoggerFactory.getLogger(UsersTable.class);
 	private TableName usersTable = TableName.valueOf("users");

@@ -1,4 +1,4 @@
-package com.drkiettran.hbase.repository;
+package com.drkiettran.hbase.model;
 
 public class InfoFamily {
 	private String key;
