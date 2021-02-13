@@ -1,6 +1,6 @@
 package com.drkiettran.hbase.model;
 
-public class InfoFamily {
+public class User {
 	private String key;
 	private String name;
 	private String email;
